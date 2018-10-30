@@ -1,3 +1,4 @@
+package prof;
 /* Corrige du TP 2 de GRI 2018, M2 Info Paris Diderot. Copyright Fabien de Montgolfier  */
 
 import java.io.FileReader;

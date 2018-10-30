@@ -34,4 +34,11 @@ public class Genere {
 		}
 		return tab;
 	}
+	public static boolean [][] init (int n, int k){
+		boolean [][] tab = new boolean [n][n];
+		return tab;
+		
+
+	}
+
 }
